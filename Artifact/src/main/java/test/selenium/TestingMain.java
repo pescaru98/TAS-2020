@@ -24,7 +24,9 @@ public class TestingMain {
 		js.executeScript("scrollBy(0, 5000)");   
 
 		// Click on the Search button  
-		driver.findElement(By.linkText("Core Java")).click();     
+		driver.findElement(By.linkText("Core Java")).click();  
+		
+		driver.findElement(By.linkText("History of Java")).click();
 
 	}  
 }
