@@ -1,0 +1,36 @@
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.deps.json
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csprojAssemblyReference.cache
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfo.cs
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\source\repos\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.deps.json
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema2] Domain-Testing\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.deps.json
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema3] Test-Stubs\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.deps.json
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\bin\Debug\netstandard2.0\C1NUnitTest.pdb
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.dll
+C:\Users\Mihai\Desktop\RepoTAS\[Tema4] Spy & Moq\C1NUnitTest\C1NUnitTest\obj\Debug\netstandard2.0\C1NUnitTest.pdb
