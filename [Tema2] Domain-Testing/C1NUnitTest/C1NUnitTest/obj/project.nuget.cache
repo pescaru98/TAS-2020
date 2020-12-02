@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "76vUG40tflbMqxSZ1oryj2522cKnR7zmn5mAOnUoQ6CTjf9yASkZCNToV4soZ1Az8r4zX8VweNko2KOkzmiHKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mihai\\Desktop\\RepoTAS\\[Tema2] Domain-Testing\\C1NUnitTest\\C1NUnitTest\\C1NUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mihai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mihai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
